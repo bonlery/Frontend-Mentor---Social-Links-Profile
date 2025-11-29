@@ -15,11 +15,11 @@ function Profile(){
         </div>
 
         <div className="w-full flex justify-center items-center flex-col gap-[1.6rem] ">    
-            <p className='w-full bg-[var(--gray-700)] leading-none text-[1.4rem] text-[var(--white)] font-[var(--font-body)] font-bold text-center py-[1.55rem] rounded-[0.75rem]  hover:bg-[var(--green)] not-only:hover:text-[var(--gray-800)] transition'>GitHub</p>
-            <p className='w-full bg-[var(--gray-700)] leading-none text-[1.4rem] text-[var(--white)] font-[var(--font-body)] font-bold text-center py-[1.55rem] rounded-[0.75rem] hover:bg-[var(--green)] not-only:hover:text-[var(--gray-800)] transition'>Frontend Mentor</p>
-            <p className='w-full bg-[var(--gray-700)] leading-none text-[1.4rem] text-[var(--white)] font-[var(--font-body)] font-bold text-center py-[1.55rem] rounded-[0.75rem] hover:bg-[var(--green)] not-only:hover:text-[var(--gray-800)] transition'>LinkedIn</p>
-            <p className='w-full bg-[var(--gray-700)] leading-none text-[1.4rem] text-[var(--white)] font-[var(--font-body)] font-bold text-center py-[1.55rem] rounded-[0.75rem] hover:bg-[var(--green)] not-only:hover:text-[var(--gray-800)] transition'>Twitter</p>
-            <p className='w-full bg-[var(--gray-700)] leading-none text-[1.4rem] text-[var(--white)] font-[var(--font-body)] font-bold text-center py-[1.55rem] rounded-[0.75rem] hover:bg-[var(--green)] not-only:hover:text-[var(--gray-800)] transition'>Instagram</p>    
+            <p className='cursor-pointer w-full bg-[var(--gray-700)] leading-none text-[1.4rem] text-[var(--white)] font-[var(--font-body)] font-bold text-center py-[1.55rem] rounded-[0.75rem]  hover:bg-[var(--green)] not-only:hover:text-[var(--gray-800)] transition'>GitHub</p>
+            <p className='cursor-pointer w-full bg-[var(--gray-700)] leading-none text-[1.4rem] text-[var(--white)] font-[var(--font-body)] font-bold text-center py-[1.55rem] rounded-[0.75rem] hover:bg-[var(--green)] not-only:hover:text-[var(--gray-800)] transition'>Frontend Mentor</p>
+            <p className='cursor-pointer w-full bg-[var(--gray-700)] leading-none text-[1.4rem] text-[var(--white)] font-[var(--font-body)] font-bold text-center py-[1.55rem] rounded-[0.75rem] hover:bg-[var(--green)] not-only:hover:text-[var(--gray-800)] transition'>LinkedIn</p>
+            <p className='cursor-pointer w-full bg-[var(--gray-700)] leading-none text-[1.4rem] text-[var(--white)] font-[var(--font-body)] font-bold text-center py-[1.55rem] rounded-[0.75rem] hover:bg-[var(--green)] not-only:hover:text-[var(--gray-800)] transition'>Twitter</p>
+            <p className='cursor-pointer w-full bg-[var(--gray-700)] leading-none text-[1.4rem] text-[var(--white)] font-[var(--font-body)] font-bold text-center py-[1.55rem] rounded-[0.75rem] hover:bg-[var(--green)] not-only:hover:text-[var(--gray-800)] transition'>Instagram</p>    
         </div>
     </div>)
 }
